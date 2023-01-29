@@ -17,6 +17,6 @@ h1 {
 h3 {
     color: #66BFBF;
 }
-p {
-    text-align: auto;
+.left {
+    text-align: left;
 }
